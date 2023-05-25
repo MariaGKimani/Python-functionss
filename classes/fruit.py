@@ -1,5 +1,5 @@
 class  Fruit:
-    amount =  4
+    is_ripe = True
     def __init__(self,type,size,flavor):
         self.type =type
         self.size = size
